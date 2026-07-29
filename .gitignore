@@ -1,0 +1,18 @@
+# Python 快取與編譯檔
+__pycache__/
+*.py[cod]
+
+# Django 資料庫與環境設定
+db.sqlite3
+db.sqlite3-journal
+.env
+local_settings.py
+
+# 虛擬環境 (Virtual Environment)
+venv/
+env/
+.venv/
+
+# IDE 與編輯器設定
+.vscode/
+.idea/
