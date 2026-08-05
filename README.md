@@ -62,19 +62,20 @@ Dashboard
 ---
 
 ## 📊 Development Progress / 開發進度
-| Module            |  Progress  |
-| ----------------- | :--------: |
-| Dashboard         |   ✅ 100%   |
-| User              |   ✅ 100%   |
-| Models            |   ✅ 100%   |
-| Firmware          |   ✅ 100%   |
-| Test Case         |   ✅ 100%   |
-| Test Plan         |   ✅ 100%   |
-| Validation        |   🟡 90%   |
-| Execute           |   🟢 95%   |
-| Report            | 🔴 Planned |
-| Logs              | 🔴 Planned |
-| Automation Engine |  ⚪ Planned |
+| Module            |         建議進度        | 原因                                                                   |
+| ----------------- | :-----------------: | -------------------------------------------------------------------- |
+| Dashboard         |      ✅ **100%**     | 儀表板、統計卡片、Recent Jobs、Latest Firmware、Component 化完成。                  |
+| User              |      ✅ **100%**     | Login、Register、Remember Username、Auto Login、Enterprise Login UI 已完成。 |
+| Models            |      ✅ **100%**     | CRUD、搜尋、Detail、Edit、Delete、Component 化完成。                            |
+| Firmware          |      ✅ **100%**     | CRUD、搜尋、Filter、Component 化完成。                                        |
+| Test Case         |      ✅ **100%**     | CRUD 已完成，UI 已統一。                                                     |
+| Test Plan         |      ✅ **100%**     | CRUD 已完成，可建立測試計畫。                                                    |
+| Validation        |      🟡 **80%**     | Validation 流程已建立，但真正執行 Python Script、Log 收集、結果解析還沒完成。                |
+| Execute           |      🟡 **85%**     | Execute CRUD、狀態管理已完成，但還沒有真正執行測試，只是流程管理。                              |
+| Report            | 🔴 **0% (Planned)** | 尚未開始。                                                                |
+| Logs              | 🔴 **0% (Planned)** | 尚未開始。                                                                |
+| Automation Engine | 🔴 **0% (Planned)** | v1.2.0 才會開始。                                                         |
+
 
 ---
 
